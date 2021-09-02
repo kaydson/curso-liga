@@ -1,0 +1,27 @@
+.ripple-parent {
+    position: relative;
+    overflow: hidden;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    --footer-heigth: calc(7, 4rem + var(--ion-safe-area-bottom));
+    &--body {
+        background-color: azure;
+    }
+    &--footer {
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+        height: var(--footer-height);
+        &--icon {
+            padding: 1rem;
+            ion-icon {
+                height: 2.4rem;
+                width: 2.4rem;
+                font-size: 2.4rem;
+            }
+        }
+    }
+}

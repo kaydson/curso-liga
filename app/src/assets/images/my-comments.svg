@@ -1,0 +1,3 @@
+<svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <path sytle="fill: var(--icon-color, black)"  fill-rule="evenodd" clip-rule="evenodd" d="M2 2c-2 1-2 4-2 9v12l2 1 1-1 1-1 3-1 1-1h6l8-1 1-1 1-8-1-8-1-1-8-1h-3C6 0 3 0 2 2zm4 10l2-2-2-2-2 2 2 2zm8-2l-2 2-2-2 2-2 2 2zm4 2l2-2-2-2-2 2 2 2z" />
+</svg>
